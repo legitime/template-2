@@ -1,4 +1,4 @@
-## Full-Stack Template
+# Full-Stack Template
 
 This is a full-stack template project for Software Composers to create  applications with AI.
 
